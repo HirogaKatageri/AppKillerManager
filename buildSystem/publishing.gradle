@@ -1,0 +1,6 @@
+ext {
+    publishing = [
+            bintray_user: 'hirogakatageri',
+            bintray_key  : '4f97f24681cc2c9d19a902568045278e68205ed3'
+    ]
+}

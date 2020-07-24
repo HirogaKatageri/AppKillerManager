@@ -1,1 +1,1 @@
-include ':app', ':appkillermanager'
+include ':appkillermanager'
