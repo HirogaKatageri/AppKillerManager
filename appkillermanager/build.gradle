@@ -3,6 +3,9 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-kapt'
 apply from: '../buildSystem/versions.gradle'
 apply from: '../buildSystem/dependencies.gradle'
+apply plugin: 'com.github.dcendents.android-maven'
+
+group='com.github.Hirogakatageri'
 
 android {
     compileSdkVersion projectVersions.compile_sdk_version
